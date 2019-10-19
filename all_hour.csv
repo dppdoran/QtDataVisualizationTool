@@ -1,0 +1,7 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2019-10-19T09:53:33.700Z,35.646,-117.4705,8.05,0.82,ml,17,51,0.04263,0.14,ci,ci38906983,2019-10-19T09:57:15.412Z,"15km SSW of Searles Valley, CA",earthquake,0.33,0.67,0.163,9,automatic,ci,ci
+2019-10-19T09:53:28.859Z,66.3185,-157.4559,0,2.3,ml,,,,0.81,ak,ak019df2lnth,2019-10-19T09:58:35.522Z,"70km SSW of Kobuk, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2019-10-19T09:42:42.220Z,35.6173333,-117.4445,6.37,1.22,ml,24,77,0.03398,0.17,ci,ci38906975,2019-10-19T09:54:15.468Z,"17km SSW of Searles Valley, CA",earthquake,0.27,0.49,0.175,18,automatic,ci,ci
+2019-10-19T09:41:49.945Z,60.3695,-147.9031,17,2.1,ml,,,,0.46,ak,ak019df2j4v1,2019-10-19T09:46:22.924Z,"62km SE of Whittier, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2019-10-19T09:29:25.194Z,35.72406769,-98.82735443,2.588226318,2.07,ml,13,82.71896362,0.1372727156,0.9250119048,ok,ok2019umke,2019-10-19T09:38:28.605Z,"7km WSW of Thomas, Oklahoma",earthquake,3.288092334,2.772384979,,9,automatic,ok,ok
+2019-10-19T09:27:23.158Z,66.3185,-157.3088,2.9,1.3,ml,,,,0.43,ak,ak019df2g2r1,2019-10-19T09:37:00.684Z,"68km SSW of Kobuk, Alaska",earthquake,,0.6,,,automatic,ak,ak
